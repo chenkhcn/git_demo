@@ -1,4 +1,3 @@
 <?php
-
-sakdljajdkla
+echo "asdasda";
 ?>
